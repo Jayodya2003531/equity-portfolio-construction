@@ -2,7 +2,7 @@
 10-stock S&amp;P 500 equity portfolio | Minimum Volatility · Monte Carlo · Efficient Frontier | Data: investing.com 2023–2026
 # 📈 Equity Portfolio Construction & Monte Carlo Simulation
 
-> **10-Stock S&P 500 Portfolio** | Historical Data: Jan 2023 – Jan 2026 | Source: investing.com
+> **10-Stock S&P 500 Portfolio** | Historical Data: May 2023 – May 2026 | Source: investing.com
 
 ---
 

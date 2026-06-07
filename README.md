@@ -98,7 +98,8 @@ Correlated price paths were generated using **Cholesky decomposition** of the hi
 
 ## 📉 Activity 2 — Efficient Frontier
 
-<img width="1184" height="709" alt="Screenshot 2026-05-27 220916" src="https://github.com/user-attachments/assets/f01b6e0a-50e7-49d0-a680-fbde3f7bbc5e" />
+<img width="859" height="442" alt="image" src="https://github.com/user-attachments/assets/454a0524-0b9f-4323-8a6e-63b53c1ad54b" />
+
 
 The frontier was constructed by solving **300 constrained minimum-variance optimizations** across a spectrum of target returns. Each point represents the lowest possible volatility achievable for a given return level.
 

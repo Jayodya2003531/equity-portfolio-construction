@@ -54,6 +54,8 @@ Historical daily closing prices sourced from **[investing.com](https://www.inves
 | 📦 Amazon | 4.37% | Small growth allocation |
 | 👍 Meta | 2.00% | Minimal high-vol exposure |
 | 🍎 Apple | ~0.00% | Excluded by optimizer |
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/057a00b5-9291-4b96-9c9c-e0fc1e3a38de" />
+
 
 ### Portfolio Performance
 
@@ -73,7 +75,8 @@ Historical daily closing prices sourced from **[investing.com](https://www.inves
 
 Correlated price paths were generated using **Cholesky decomposition** of the historical covariance matrix, preserving the full inter-stock correlation structure.
 
-![Activity 1 Charts](images/activity1.png)
+
+
 
 ### Simulation Results
 
@@ -87,12 +90,15 @@ Correlated price paths were generated using **Cholesky decomposition** of the hi
 | Correlation Matrix R² | **0.9997** (simulated vs market) |
 
 > The simulated correlation matrix achieves R² = 0.9997 against the market correlation matrix — confirming the Cholesky method accurately replicates real-world stock dependencies.
+<img width="752" height="447" alt="image" src="https://github.com/user-attachments/assets/2096c226-ba54-4a49-bfae-52344924dc78" />
+<img width="858" height="448" alt="image" src="https://github.com/user-attachments/assets/0db83ec9-dc3c-455a-ab40-666d997ff709" />
+
 
 ---
 
 ## 📉 Activity 2 — Efficient Frontier
 
-![Efficient Frontier](images/activity2.png)
+<img width="1184" height="709" alt="Screenshot 2026-05-27 220916" src="https://github.com/user-attachments/assets/f01b6e0a-50e7-49d0-a680-fbde3f7bbc5e" />
 
 The frontier was constructed by solving **300 constrained minimum-variance optimizations** across a spectrum of target returns. Each point represents the lowest possible volatility achievable for a given return level.
 
